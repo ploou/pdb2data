@@ -1,0 +1,21 @@
+HEADER 
+TITLE     Built with Packmol                                             
+REMARK   Packmol generated pdb file 
+REMARK   Home-Page: http://www.ime.unicamp.br/~martinez/packmol
+REMARK
+HETATM    1  H   HOH A   1      10.547  14.588  47.136                          
+HETATM    2  H   HOH A   1       9.052  13.941  47.248                          
+HETATM    3  O   HOH A   1       9.908  13.933  46.732                          
+HETATM    4  H   HOH A   2       8.999   7.317  87.920                          
+HETATM    5  H   HOH A   2       9.357   8.890  88.175                          
+HETATM    6  O   HOH A   2       9.388   7.972  88.568                          
+HETATM    7  H   HOH A   3      17.432  17.149 127.243                          
+HETATM    8  H   HOH A   3      18.809  16.913 126.397                          
+HETATM    9  O   HOH A   3      18.216  17.600 126.816                          
+HETATM   10  H   HOH A   4       3.338  11.853 113.352                          
+HETATM   11  H   HOH A   4       2.780  10.319 113.398                          
+HETATM   12  O   HOH A   4       2.517  11.283 113.393                          
+HETATM   13  H   HOH A   5       7.664   5.269  93.970                          
+HETATM   14  H   HOH A   5       8.066   6.822  93.665                          
+HETATM   15  O   HOH A   5       7.494   6.222  94.223                          
+END

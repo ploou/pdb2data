@@ -1,0 +1,13 @@
+
+
+tolerance 2.0 
+filetype pdb
+output SimulationSystem.pdb
+
+structure H-O-H.pdb 
+  number 5
+   inside box 1.0 1.0 25. 19. 19. 130.
+end structure
+
+
+
